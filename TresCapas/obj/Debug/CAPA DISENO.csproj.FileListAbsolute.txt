@@ -1,0 +1,31 @@
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\TresCapas.exe.config
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\TresCapas.exe
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\TresCapas.pdb
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\Tienda-Entidades.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\Tienda-LogicaNegocio.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\Tienda-AccesoDatos.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\Tienda-Entidades.pdb
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\Tienda-LogicaNegocio.pdb
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\Tienda-AccesoDatos.pdb
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\de\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\es\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\fr\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\it\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\ja\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\ko\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\pt\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\ru\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\zh-Hans\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\bin\Debug\zh-Hant\Microsoft.SqlServer.Types.resources.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\CAPA DISENO.csprojResolveAssemblyReference.cache
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\TresCapas.Form1.resources
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\TresCapas.frmClientes.resources
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\TresCapas.frmComboBox.resources
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\TresCapas.frmMenu.resources
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\TresCapas.frmReporte1.resources
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\TresCapas.frmTipoClientes.resources
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\TresCapas.Properties.Resources.resources
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\CAPA DISENO.csproj.GenerateResource.Cache
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\TresCapas.exe
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\TresCapas\obj\Debug\TresCapas.pdb

@@ -1,0 +1,7 @@
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-AccesoDatos\bin\Debug\Tienda-AccesoDatos.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-AccesoDatos\bin\Debug\Tienda-AccesoDatos.pdb
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-AccesoDatos\bin\Debug\Tienda-Entidades.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-AccesoDatos\bin\Debug\Tienda-Entidades.pdb
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-AccesoDatos\obj\Debug\Tienda-AccesoDatos.csprojResolveAssemblyReference.cache
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-AccesoDatos\obj\Debug\Tienda-AccesoDatos.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-AccesoDatos\obj\Debug\Tienda-AccesoDatos.pdb

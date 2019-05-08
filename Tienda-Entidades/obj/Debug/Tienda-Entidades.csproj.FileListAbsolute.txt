@@ -1,0 +1,5 @@
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-Entidades\bin\Debug\Tienda-Entidades.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-Entidades\bin\Debug\Tienda-Entidades.pdb
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-Entidades\obj\Debug\Tienda-Entidades.csprojResolveAssemblyReference.cache
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-Entidades\obj\Debug\Tienda-Entidades.dll
+C:\Users\David Ocana\Downloads\ejemploTresCapas-master\EjemploTresCapas\Tienda-Entidades\obj\Debug\Tienda-Entidades.pdb
